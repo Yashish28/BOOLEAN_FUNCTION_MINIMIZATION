@@ -14,10 +14,6 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
 
-**Theory**
-
-**Logic Diagram**
-
 **Procedure**
 
 1.	Type the program in Quartus software.
@@ -30,21 +26,30 @@ Hardware – PCs, Cyclone II , USB flasher
 
 5.	For different input combinations generate the timing diagram.
 
+**Truth Table**:
+![image](https://github.com/user-attachments/assets/814b3bd7-05a6-4225-9564-38475b825e2a)
+
+![image](https://github.com/user-attachments/assets/bcfaefa4-1ad3-43bb-8da9-7fa8ccef974d)
+
+
 
 **Program:**
 
-/* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:*/
+![image](https://github.com/user-attachments/assets/51c3baa9-98d6-4f00-9ff2-40aa6c502f2a)
 
 
-**RTL realization**
+Developed by: YASHISH.K 
+RegisterNumber: 212224050061
 
-**Output:**
 
-**RTL**
+**RTL Diagram**
 
-**Timing Diagram**
+![image](https://github.com/user-attachments/assets/22a8236d-b0a6-4ade-a58d-f7b7deef1fca)
+
+
+**Waveform**
+![image](https://github.com/user-attachments/assets/64d59ebf-2e5b-4bdb-965f-e562b91e11f0)
 
 **Result:**
 

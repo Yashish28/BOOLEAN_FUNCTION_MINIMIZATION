@@ -1,3 +1,7 @@
+**Devoloped By** YASHISH.K
+**Reg no** 212224050061
+
+
 # BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
@@ -39,8 +43,6 @@ Hardware – PCs, Cyclone II , USB flasher
 ![image](https://github.com/user-attachments/assets/51c3baa9-98d6-4f00-9ff2-40aa6c502f2a)
 
 
-Developed by: YASHISH.K 
-RegisterNumber: 212224050061
 
 
 **RTL Diagram**
